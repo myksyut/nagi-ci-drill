@@ -5,6 +5,12 @@ TUI（`nagi`）の版の正本は `tui/Cargo.toml` の `version`。出し方は 
 
 ## [Unreleased]
 
+## [0.3.0-rc.1]
+
+### Added
+
+- drill 用のプレリリース
+
 ## [0.2.0]
 
 ### Changed
